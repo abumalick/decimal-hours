@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Decimal hours",
+  "name": "Convert your time to decimal hours",
   "icons": [
     {
       "src": "favicon.ico",
